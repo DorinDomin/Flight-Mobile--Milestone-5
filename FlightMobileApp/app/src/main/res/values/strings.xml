@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Flight Simulator Controller</string>
+    <string name="LocalHost1">LocalHost1</string>
+    <string name="LocalHost2">LocalHost2</string>
+    <string name="LocalHost3">LocalHost3</string>
+    <string name="LocalHost4">LocalHost4</string>
+    <string name="LocalHost5">LocalHost5</string>
+    <string name="typeUrl">Type Url</string>
+    <string name="connect">Connect</string>
+    <string name="image">imageView</string>
+    <string name="title_activity_simulatorpage">simulatorpage</string>
+    <!-- Strings used for fragments for navigation -->
+    <string name="next">Next</string>
+    <string name="previous">Previous</string>
+
+    <string name="hello_first_fragment">Hello first fragment</string>
+    <string name="rudder">Rudder:</string>
+    <string name="throttle">Throttle:</string>
+    <string name="rudder1">Rudder</string>
+
+    <string name="elevator">Elevator:</string>
+
+    <string name="aileron">Aileron:</string>
+    <string name="_0">0</string>
+    <string name="rudder2">Rudder</string>
+    <string name="throttle1">Throttle</string>
+
+</resources>
